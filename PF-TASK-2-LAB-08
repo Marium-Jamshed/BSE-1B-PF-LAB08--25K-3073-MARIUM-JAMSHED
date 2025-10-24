@@ -20,6 +20,6 @@ for(i=0;i<3;i++){
 
 
 printf("MAX = %d\n",max);
-printf("index = %d",i);
+printf("index = %d",index);
 	return 0;
 }
